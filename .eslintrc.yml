@@ -1,0 +1,15 @@
+root: true
+env:
+  browser: true
+  node: true
+  es6: true
+extends:
+  - 'prettier'
+plugins: []
+# add your custom rules here
+rules:
+  'import/named': 'off'
+  'no-undef': 'off'
+  'no-unused-vars': 'off'
+parserOptions:
+  ecmaVersion: 2018
