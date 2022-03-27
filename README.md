@@ -14,6 +14,6 @@
 
 ## ご協力いただいた皆様
 
-[CONTRIBUTORS.md](./CONTRIBUTORS.md) でご協力いただいた皆様を紹介しております。
+[CONTRIBUTORS.md](https://github.com/stop-covid19-hyogo/covid19/blob/development/CONTRIBUTORS.md) でご協力いただいた皆様を紹介しております。
 
 2年間本当にありがとうございました。
